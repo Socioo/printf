@@ -49,4 +49,4 @@ No more than 5 functions per file.
 
 ## Authors
 [Ahmad Badamasi] (https://github.com/Socioo)
-
+[Titilayo Kwevi] (https://github.com/Shaawtee)
